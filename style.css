@@ -17,14 +17,14 @@ body{
 }
 
 .navbar a{
-    color:D6EAF8;
+    color:BLACK;
     text-decoration:none;
     margin:0 20px;
     font-weight:bold;
 }
 
 .navbar a:hover{
-    color:#YELLOW;
+    color:#DARK BLUE;
 }
 
 .container{

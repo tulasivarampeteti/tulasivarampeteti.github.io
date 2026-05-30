@@ -6,12 +6,12 @@
 
 body{
     font-family:Arial, sans-serif;
-    background:#f5f7fa;
+    background:#ADD8E6;
     color:#333;
 }
 
 .navbar{
-    background:#0f172a;
+    background:#89CFF0;
     padding:18px;
     text-align:center;
 }
@@ -53,7 +53,7 @@ body{
 }
 
 .hero h3{
-    color:#64748b;
+    color:F0F8FF;
     margin-bottom:20px;
 }
 

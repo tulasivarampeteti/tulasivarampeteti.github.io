@@ -6,12 +6,12 @@
 
 body{
     font-family:Arial, sans-serif;
-    background:#PINK;
+    background:#FFF0F5;
     color:#BLACK;
 }
 
 .navbar{
-    background:#PINK;
+    background:#87CEEB;
     padding:18px;
     text-align:center;
 }
@@ -34,7 +34,7 @@ body{
 }
 
 .card{
-    background:PINK;
+    background:WHITE;
     padding:30px;
     margin-bottom:25px;
     border-radius:15px;

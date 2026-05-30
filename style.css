@@ -4,6 +4,10 @@
     box-sizing:border-box;
 }
 
+.home-page{
+    background:#EAF6FF;
+}
+
 body{
     font-family:Arial, sans-serif;
     background:#F5F7FA;

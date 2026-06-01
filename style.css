@@ -78,5 +78,5 @@ body{
     height: auto;
     display:block;
     object-fit: cover;
-    border-radius: 10%;
+    border-radius: 0%;
 }

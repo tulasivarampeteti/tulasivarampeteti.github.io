@@ -76,6 +76,7 @@ body{
 .profile-img{
     width: 230px;
     height: auto;
+    border-radius:12px;
     object-fit: cover;
     display:block;
     margin-bottom:20px;

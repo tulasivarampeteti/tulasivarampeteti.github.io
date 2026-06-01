@@ -74,9 +74,8 @@ body{
 }
 
 .profile-img{
-    width: 300px;
-    height: auto;
-    display:block;
+    width: 260-320px;
+    height: 320-380;
+    object-position: center top;
     object-fit: cover;
-    border-radius: 0%;
 }

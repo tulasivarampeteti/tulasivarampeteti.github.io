@@ -41,7 +41,7 @@ body{
 }
 
 .card{
-    background: #FFFFFF;
+    background: #E0F7FF;
     padding: 30px;
     margin-bottom: 25px;
     border-radius: 15px;
@@ -74,10 +74,10 @@ body{
 }
 
 .profile-img{
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 0%;
     margin-bottom: 20px;
     border: 3px solid #FFFFFF;
 }

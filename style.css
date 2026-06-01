@@ -9,6 +9,10 @@
 }
 
 body{
+    background-image: url("images/background.jpg");
+    background-size: cover;
+}
+body{
     font-family:Arial, sans-serif;
     background:#F5F7FA;
     color:#BLACK;

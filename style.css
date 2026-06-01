@@ -74,8 +74,12 @@ body{
 }
 
 .profile-img{
-    width: 260-320px;
-    height: 320-380;
-    object-position: center top;
+    width: 2300px;
+    height: auto;
+    object-radius:12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     object-fit: cover;
+    display:block;
+    margin-bottom:20px;
+    object-position: center top;
 }
